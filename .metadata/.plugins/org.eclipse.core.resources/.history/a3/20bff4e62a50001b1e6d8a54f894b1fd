@@ -1,0 +1,22 @@
+
+public class main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
+
+class Solution {
+    public int[] solution(int[] numbers) {
+        int[] answer = {};
+        
+        
+        
+        
+        
+        
+        return answer;
+    }
+}

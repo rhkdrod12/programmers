@@ -1,0 +1,28 @@
+
+public class main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		int[] numbers = {2,1,3,4,1};
+		
+		System.out.println(new Solution().solution(numbers));
+		
+		
+		
+	}
+
+}
+
+class Solution {
+    public int[] solution(int[] numbers) {
+        int[] answer = {};
+        
+        
+        
+        
+        
+        
+        return answer;
+    }
+}
